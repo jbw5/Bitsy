@@ -1,0 +1,769 @@
+Tea Party
+
+# BITSY VERSION 6.4
+
+! ROOM_FORMAT 1
+
+PAL 0
+NAME 1
+42,31,3
+71,131,52
+255,255,255
+
+ROOM 0
+0,0,0,a,a,a,0,0,0,0,a,c,a,0,0,0
+0,0,0,c,a,0,0,0,0,0,0,a,a,0,0,0
+0,0,0,a,a,0,0,0,0,0,0,a,c,0,0,0
+0,0,0,a,a,0,0,0,0,0,0,c,a,0,0,0
+0,0,0,c,a,0,0,0,0,0,0,a,a,0,0,0
+0,0,0,a,c,0,0,0,0,0,0,a,c,0,0,0
+0,0,0,a,a,0,0,0,0,0,0,a,a,0,0,0
+0,0,0,c,a,0,0,0,0,0,0,a,c,0,0,0
+0,0,0,a,a,0,0,0,0,0,0,c,a,0,0,0
+0,0,0,a,a,0,0,0,0,0,0,a,a,0,0,0
+0,0,0,a,c,0,0,0,0,0,0,c,a,0,0,0
+0,0,0,a,c,0,0,0,0,0,0,c,a,0,0,0
+0,0,0,a,a,0,0,0,0,0,0,a,c,0,0,0
+0,0,0,a,a,0,0,0,0,0,0,a,a,0,0,0
+0,0,0,c,a,0,0,0,0,0,0,a,a,0,0,0
+0,0,0,a,a,0,0,0,0,0,0,c,a,0,0,0
+NAME Room1
+EXT 9,0 1 7,14 FX fade_b
+EXT 6,0 1 8,14
+EXT 8,0 1 9,14
+EXT 7,0 1 6,14
+PAL 0
+
+ROOM 1
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,a,0,0,a,a,a,a,c,a,a,a,c,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,c,0
+0,a,0,0,0,0,0,0,0,0,0,0,b,0,a,0
+0,a,0,0,0,0,b,b,0,0,b,0,0,0,a,0
+0,c,0,0,b,b,b,0,0,0,0,0,0,0,a,0
+0,a,0,0,b,0,0,0,0,b,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,b,0,0,0,0,a,0
+0,a,b,0,0,0,0,0,0,b,0,0,0,0,c,0
+0,a,0,0,0,b,b,0,0,b,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,b,b,0,0,0,a,0
+0,c,0,b,0,0,0,0,0,0,b,b,0,0,a,0
+0,a,0,b,0,0,0,0,0,0,0,0,0,0,c,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,a,c,a,a,0,0,0,0,a,a,c,a,c,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Room2
+ITM 0 2,13
+ITM 0 13,2
+ITM 0 5,4
+ITM 0 9,11
+EXT 7,14 0 9,0 FX fade_b
+EXT 8,14 0 6,0
+EXT 9,14 0 8,0
+EXT 6,14 0 7,0
+EXT 3,1 2 3,14
+EXT 4,1 2 4,14
+END 9 5,7
+END a 5,8
+END b 6,6
+END c 7,6
+END d 8,6
+END e 6,7
+END f 13,4
+END g 11,4
+END h 12,5
+END i 11,5
+END j 13,5
+END k 11,9
+END l 12,9
+END m 10,9
+END n 13,9
+END o 12,10
+END p 13,10
+PAL 0
+
+ROOM 2
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,a,c,a,a,a,c,a,a,a,a,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,b,0,0,0,0,0,b,0,0,0,a,0
+0,a,0,0,b,b,0,0,0,0,b,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,c,0
+0,c,0,0,b,b,0,0,0,0,0,0,0,0,a,0
+0,c,0,0,b,0,0,0,b,0,0,0,0,0,a,0
+0,a,0,0,b,0,0,0,b,0,0,b,0,0,a,0
+0,a,0,0,b,0,0,0,0,0,0,0,b,0,c,0
+0,a,0,0,b,0,0,0,0,0,b,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,b,0,0,0,a,0
+0,a,b,b,0,0,0,0,b,b,b,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,a,0,0,a,a,c,a,a,a,a,c,a,a,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Room3
+ITM 0 2,13
+ITM 0 4,2
+ITM 0 12,8
+EXT 3,14 1 3,1
+EXT 4,14 1 4,1
+EXT 13,1 3 13,13
+EXT 12,1 3 12,13
+END r 3,11
+END s 3,10
+END t 2,10
+END u 5,8
+END v 6,8
+END w 6,7
+END x 7,7
+END y 5,9
+END z 6,9
+END 10 11,9
+END 11 11,11
+END 12 12,11
+END 13 12,12
+END 14 11,13
+END 15 13,12
+END 16 11,10
+END 17 2,9
+END 18 3,9
+END 19 4,11
+END 1a 8,2
+END 1b 7,2
+END 1c 9,3
+END 1d 9,4
+PAL 0
+
+ROOM 3
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,c,a,a,c,a,a,a,a,a,a,a,a,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,b,b,b,b,b,b,b,0,0,a,0
+0,a,0,0,b,0,0,0,0,0,0,0,b,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,c,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,c,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,c,0
+0,c,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,0,0,0,0,0,0,0,0,0,0,0,0,a,0
+0,a,a,a,a,c,a,a,c,a,a,a,d,d,a,0
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAME Room4
+END 1e 4,5
+END 1f 4,6
+END 1g 4,7
+END 1h 12,5
+END 1i 12,6
+END 1j 12,7
+END 1k 4,8
+END 1m 4,11
+END 1n 4,13
+END 1o 13,7
+END 1r 4,9
+END 1s 4,10
+END 1t 4,12
+END 1u 14,8
+PAL 0
+
+TIL a
+11111110
+01000011
+10010001
+11001011
+10010011
+11000101
+11010010
+01111111
+>
+11111110
+01000011
+10010001
+11001011
+10010011
+11000101
+11010010
+01111111
+NAME border
+WAL true
+
+TIL b
+00000000
+01111110
+01000010
+01011010
+01011010
+01000010
+01111110
+00000000
+NAME walls
+WAL true
+
+TIL c
+00000001
+10111100
+01101110
+00110100
+01101100
+00111010
+00101101
+10000000
+>
+00000001
+10111100
+01101110
+00110100
+01101100
+00111010
+00101101
+10000000
+NAME test
+WAL true
+
+TIL d
+00000001
+10111100
+01101110
+00110100
+01101100
+00111010
+00101101
+10000000
+NAME test2
+WAL true
+
+SPR A
+00000000
+00010000
+00101000
+00101000
+00010000
+00111000
+00010000
+00101000
+POS 0 7,15
+
+SPR a
+00000000
+00000000
+01010001
+01110001
+01110010
+01111100
+00111100
+00100100
+NAME Cat
+DLG SPR_0
+
+SPR b
+00000000
+00000000
+10111010
+11010110
+11101110
+11111110
+00000000
+00000000
+NAME note
+DLG SPR_5
+POS 0 8,7
+
+SPR c
+01111100
+01010100
+10101010
+10111010
+01010100
+01101100
+01111100
+00000000
+NAME card
+POS 2 2,11
+
+SPR d
+00000000
+00000000
+00100000
+00100000
+01010010
+01111100
+00111100
+00101000
+NAME White Rabbit
+DLG SPR_4
+POS 3 8,6
+
+SPR e
+00000000
+11001100
+01001000
+00110000
+01010010
+01111100
+00111100
+00011000
+NAME March Hare
+DLG SPR_3
+POS 3 10,6
+
+SPR f
+00000000
+00001000
+00011100
+00111110
+00001000
+00011100
+00001000
+00010100
+NAME Mad Hatter
+DLG SPR_1
+POS 3 8,8
+
+SPR g
+00000000
+00000000
+01010001
+01110011
+01010010
+01110110
+00101100
+00000100
+NAME Cheshire cat
+DLG SPR_2
+POS 3 6,6
+
+SPR h
+01111100
+01010100
+10101010
+10111010
+01010100
+01101100
+01111100
+00000000
+NAME card2
+POS 2 11,12
+
+SPR i
+01111100
+01010100
+10101010
+10111010
+01010100
+01101100
+01111100
+00000000
+NAME card3
+POS 2 5,7
+
+SPR j
+01111100
+01010100
+10101010
+10111010
+01010100
+01101100
+01111100
+00000000
+NAME card4
+POS 2 9,2
+
+SPR k
+01111100
+01010100
+10101010
+10111010
+01010100
+01101100
+01111100
+00000000
+NAME card5
+POS 1 11,10
+
+SPR l
+01111100
+01010100
+10101010
+10111010
+01010100
+01101100
+01111100
+00000000
+NAME card6
+POS 1 5,6
+
+SPR m
+01111100
+01010100
+10101010
+10111010
+01010100
+01101100
+01111100
+00000000
+NAME card7
+POS 1 12,4
+
+SPR n
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+POS 3 5,4
+
+SPR o
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea2
+POS 3 6,4
+
+SPR p
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea3
+POS 3 7,4
+
+SPR q
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea4
+POS 3 8,4
+
+SPR r
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea5
+POS 3 9,4
+
+SPR s
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea6
+POS 3 10,4
+
+SPR t
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea7
+POS 3 11,4
+
+ITM 0
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea
+DLG ITM_0
+
+ITM 1
+00000000
+00000000
+00000000
+00111100
+01100100
+00100100
+00011000
+00000000
+NAME tea2
+
+DLG SPR_0
+I'm a cat
+
+DLG ITM_0
+You found a nice warm cup of tea
+
+DLG SPR_1
+"""
+{
+  - {item "tea"} <= 6 ?
+    Have I gone mad? There is not enough. You used to be much more.. muchier. You have lost your muchness.
+  - {item "tea"} == 7 ?
+    Have a very Merry Unbirthday!
+}
+"""
+
+DLG SPR_2
+"""
+{shuffle
+  - Most everyone is mad here.
+  - It is always tea time.
+  - I went to a hunting party once, I did not like it. Terrible people. They all started hunting me.
+}
+"""
+
+DLG SPR_5
+"""
+Dear Alice,
+
+Please don't be late for the very important tea party! However, the Hatter seems to have dropped cups of tea along the way. Please collect them or there won't be enough for everyone. Be careful, the queen's guards are on patrol. 
+"""
+
+DLG SPR_4
+"""
+{
+  - {item "tea"} == 7 ?
+    We can always count on you Alice!
+  - {item "tea"} <= 6 ?
+    There may not be enough for everyone, but at least you were not late.
+}
+"""
+
+DLG SPR_3
+"""
+{
+  - {item "tea"} == 7 ?
+    Yes, you must have a cup of tea!
+}{
+  - {item "tea"} <= 6 ?
+    Not a very happy unbirthday.
+}
+"""
+
+END 0
+The end
+
+END 1
+The end
+
+END 2
+The end
+
+END 3
+The end
+
+END 4
+The end
+
+END 5
+The end
+
+END 6
+The end
+
+END 7
+The end
+
+END 8
+The end
+
+END 9
+You have been captured. Off with your head!
+
+END 10
+You have been captured. Off with your head!
+
+END 11
+You have been captured. Off with your head!
+
+END 12
+You have been captured. Off with your head!
+
+END 13
+You have been captured. Off with your head!
+
+END 14
+You have been captured. Off with your head!
+
+END 15
+You have been captured. Off with your head!
+
+END 16
+You have been captured. Off with your head!
+
+END 17
+You have been captured. Off with your head!
+
+END 18
+You have been captured. Off with your head!
+
+END 19
+You have been captured. Off with your head!
+
+END a
+You have been captured. Off with your head!
+
+END b
+You have been captured. Off with your head!
+
+END c
+You have been captured. Off with your head!
+
+END d
+You have been captured. Off with your head!
+
+END e
+You have been captured. Off with your head!
+
+END f
+You have been captured. Off with your head!
+
+END g
+You have been captured. Off with your head!
+
+END h
+You have been captured. Off with your head!
+
+END i
+You have been captured. Off with your head!
+
+END j
+You have been captured. Off with your head!
+
+END k
+You have been captured. Off with your head!
+
+END l
+You have been captured. Off with your head!
+
+END m
+You have been captured. Off with your head!
+
+END n
+You have been captured. Off with your head!
+
+END o
+You have been captured. Off with your head!
+
+END p
+You have been captured. Off with your head!
+
+END q
+The end
+
+END r
+You have been captured. Off with your head!
+
+END s
+You have been captured. Off with your head!
+
+END t
+You have been captured. Off with your head!
+
+END u
+You have been captured. Off with your head!
+
+END v
+You have been captured. Off with your head!
+
+END w
+You have been captured. Off with your head!
+
+END x
+You have been captured. Off with your head!
+
+END y
+You have been captured. Off with your head!
+
+END z
+You have been captured. Off with your head!
+
+END 1a
+You have been captured. Off with your head!
+
+END 1b
+You have been captured. Off with your head!
+
+END 1c
+You have been captured. Off with your head!
+
+END 1d
+You have been captured. Off with your head!
+
+END 1e
+The end
+
+END 1f
+The end
+
+END 1g
+The end
+
+END 1h
+The end
+
+END 1i
+The end
+
+END 1j
+The end
+
+END 1k
+The end
+
+END 1l
+The end
+
+END 1m
+The end
+
+END 1n
+The end
+
+END 1o
+The end
+
+END 1p
+The end
+
+END 1q
+The end
+
+END 1r
+The end
+
+END 1s
+The end
+
+END 1t
+The end
+
+END 1u
+The end
+
+VAR a
+42
+
